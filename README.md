@@ -2,12 +2,12 @@
 
 Je me présente, je suis Raphaël, étudiant en 1ère année de BUT Métiers du Multimédia et de l'internet, parcours développement web. Je partage ici mes projets personnels et profesionnels.
 
-### Contact me
+### Contacter moi
 
  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12472736) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Melvynx_) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](htttps://discord.gg/https://discord.gg/7bH7ktRy)
 
 
-### About my knowledge 👨‍🎓
+### A propos de mes connaissances 👨‍🎓
 
 Je crée des projets pour en apprendre de plus en plus. Ma page [Github](https://melvynx.github.io/) contient des liens pour les autres pages.
 
